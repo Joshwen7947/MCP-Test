@@ -1,0 +1,148 @@
+[
+  {
+    "subreddit": "Python",
+    "url": "https://www.reddit.com/r/Python",
+    "title": "Reddit - The heart of the internet",
+    "scraped_at": "2025-09-14 13:34:24",
+    "python_topics": [
+      {
+        "title": "r/PythonPycon US 2025starts next week!",
+        "type": "python_topic"
+      },
+      {
+        "title": "r/Python Rules",
+        "type": "python_topic"
+      },
+      {
+        "title": "\"How do I\", Help, or similar questions belong in r/LearnPython",
+        "type": "python_topic"
+      },
+      {
+        "title": "Posts must be relevant to the Python Programming Language",
+        "type": "python_topic"
+      },
+      {
+        "title": "When posting projects please include both description text and a link to source code",
+        "type": "python_topic"
+      },
+      {
+        "title": "Join the Python Discord",
+        "type": "python_topic"
+      },
+      {
+        "title": "Related Python communities",
+        "type": "python_topic"
+      }
+    ],
+    "discussions": [
+      {
+        "title": "Sunday Daily Thread: What's everyone working on this week?votes •comments",
+        "url": "/r/Python/comments/1ngcnn7/sunday_daily_thread_whats_everyone_working_on/",
+        "type": "discussion"
+      },
+      {
+        "title": "Saturday Daily Thread: Resource Request and Sharing! Daily Threadvotes •comments",
+        "url": "/r/Python/comments/1nfiys8/saturday_daily_thread_resource_request_and/",
+        "type": "discussion"
+      },
+      {
+        "title": "MathFlow: an easy-to-use math library for python",
+        "url": "/r/Python/comments/1nfyq8o/mathflow_an_easytouse_math_library_for_python/",
+        "type": "discussion"
+      },
+      {
+        "title": "Python feels easy… until it doesn’t. What was your first real struggle?",
+        "url": "/r/Python/comments/1n324wb/python_feels_easy_until_it_doesnt_what_was_your/",
+        "type": "discussion"
+      },
+      {
+        "title": "SplitterMR: a modular library for splitting & parsing documents",
+        "url": "/r/Python/comments/1ng2h8x/splittermr_a_modular_library_for_splitting/",
+        "type": "discussion"
+      }
+    ]
+  },
+  {
+    "subreddit": "programming",
+    "url": "https://www.reddit.com/r/programming",
+    "title": "Reddit - The heart of the internet",
+    "scraped_at": "2025-09-14 13:34:30",
+    "python_topics": [
+      {
+        "title": "r/programming",
+        "type": "python_topic"
+      },
+      {
+        "title": "r/programming Rules",
+        "type": "python_topic"
+      },
+      {
+        "title": "/r/programming is not a support forum",
+        "type": "python_topic"
+      }
+    ],
+    "discussions": [
+      {
+        "title": "Git’s hidden simplicity: what’s behind every commit",
+        "url": "/r/programming/comments/1nfzfuo/gits_hidden_simplicity_whats_behind_every_commit/",
+        "type": "discussion"
+      },
+      {
+        "title": "AWS CEO Says Replacing Junior Developers with AI Is the Dumbest Thing He's Ever Heard",
+        "url": "/r/programming/comments/1mzofsk/aws_ceo_says_replacing_junior_developers_with_ai/",
+        "type": "discussion"
+      },
+      {
+        "title": "TargetJS: a UI framework where time is declarative (no async/await chains)",
+        "url": "/r/programming/comments/1ng8xio/targetjs_a_ui_framework_where_time_is_declarative/",
+        "type": "discussion"
+      }
+    ]
+  },
+  {
+    "subreddit": "learnpython",
+    "url": "https://www.reddit.com/r/learnpython",
+    "title": "Reddit - The heart of the internet",
+    "scraped_at": "2025-09-14 13:34:37",
+    "python_topics": [
+      {
+        "title": "r/learnpython",
+        "type": "python_topic"
+      },
+      {
+        "title": "r/learnpython Rules",
+        "type": "python_topic"
+      },
+      {
+        "title": "Posts to this subreddit must be requests for help learning python.",
+        "type": "python_topic"
+      },
+      {
+        "title": "Code Hosting/Formatting",
+        "type": "python_topic"
+      }
+    ],
+    "discussions": [
+      {
+        "title": "Ask Anything Monday - Weekly Threadvotes •comments",
+        "url": "/r/learnpython/comments/1nb8xgx/ask_anything_monday_weekly_thread/",
+        "type": "discussion"
+      },
+      {
+        "title": "What is advanced really?",
+        "url": "/r/learnpython/comments/1ngf7w3/what_is_advanced_really/",
+        "type": "discussion"
+      },
+      {
+        "title": "I’m 70. Is it worth learning Python?",
+        "url": "/r/learnpython/comments/1mzmxom/im_70_is_it_worth_learning_python/",
+        "type": "discussion"
+      },
+      {
+        "title": "Book or tutorial to learn statistics and python",
+        "url": "/r/learnpython/comments/1nge5wl/book_or_tutorial_to_learn_statistics_and_python/",
+        "type": "discussion"
+      }
+    ]
+  }
+]

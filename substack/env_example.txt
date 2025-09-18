@@ -1,0 +1,15 @@
+# Substack Automation Configuration
+# Copy this file to .env and fill in your actual credentials
+
+# Your Substack login credentials
+SUBSTACK_EMAIL=your_email@example.com
+SUBSTACK_PASSWORD=your_password_here
+
+# Your Substack URL (optional, defaults to thenerdnook.substack.com)
+SUBSTACK_URL=https://your-substack.substack.com
+
+# Posting schedule (optional, can be set in the script)
+# Format: HH:MM (24-hour format)
+# Multiple times separated by commas
+POSTING_TIMES=09:00,15:00,21:00
+
